@@ -1,0 +1,6 @@
+[submodule "AS1"]
+	path = AS1
+	url = https://github.com/satishbraju/AS1.git
+[submodule "AS2"]
+	path = AS2
+	url = https://github.com/satishbraju/AS2.git
